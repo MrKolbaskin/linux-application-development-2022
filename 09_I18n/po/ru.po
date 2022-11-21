@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-21 23:29+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main.c:25
+msgid "Is number greater than"
+msgstr "Число больше чем"
+
+#: main.c:25 main.c:28
+msgid "yes"
+msgstr "да"
+
+#: main.c:25 main.c:31
+msgid "no"
+msgstr "нет"
+
+#: main.c:35
+#, c-format
+msgid "Bad input, try again\n"
+msgstr "Неверный ввод, попробуйте снова\n"
+
+#: main.c:40
+msgid "Number is"
+msgstr "Загаданное число:"
+
+#: main.c:49
+msgid "Guess number between"
+msgstr "Загадайте число между"
+
+#: main.c:49
+msgid "and"
+msgstr "и"
